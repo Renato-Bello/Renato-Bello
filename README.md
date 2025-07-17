@@ -44,8 +44,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=renatobello&show_icons=true&theme=tokyonight" height="130">
 </div>
 
