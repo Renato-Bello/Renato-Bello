@@ -27,7 +27,7 @@
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge)
-![Cypress]([https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge](https://camo.githubusercontent.com/615fc8354c297785ad4326ebd1519ce93e6b1ce6a445cd527f1dfa50ae00e7ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f437970726573732d3639443341373f6c6f676f3d63797072657373266c6f676f436f6c6f723d666666267374796c653d666c61742d737175617265))
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 ## 🛠️ Tools & Technologies
 
