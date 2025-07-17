@@ -55,7 +55,6 @@
 
 </div>
 
-📌 _Always learning, always building. Let's connect!_
+## 🤝 Minhas Redes 
 
-🔗 [My LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-🔗 [My GitHub Projects]([https://github.com/seu-usuario](https://github.com/Renato-Bello))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-bello/)
