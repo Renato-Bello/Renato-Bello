@@ -41,17 +41,8 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=renatobello&show_icons=true&theme=tokyonight" height="130">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobello&layout=compact&theme=tokyonight" height="130">
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=renatobello&show_icons=true&theme=tokyonight" height="130">
 </div>
 
 ---
