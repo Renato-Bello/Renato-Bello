@@ -44,7 +44,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renato-Bello&show_icons=true&theme=tokyonight&cache_seconds=21600" height="130">
+  <img src="https://renato-stats.vercel.app/api?username=Renato-Bello&show_icons=true&theme=tokyonight&cache_seconds=21600" height="130">
 </div>
 
 ---
