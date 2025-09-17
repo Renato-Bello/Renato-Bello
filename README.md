@@ -41,14 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://renato-stats.vercel.app/api?username=Renato-Bello&show_icons=true&theme=tokyonight&cache_seconds=21600" height="130">
-</div>
-
----
-
 ## 🤝 Minhas Redes 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-bello/)
